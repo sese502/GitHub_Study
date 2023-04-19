@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-seyoung
-done
-=======
-name
->>>>>>> name
